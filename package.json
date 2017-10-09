@@ -1,0 +1,16 @@
+{
+  "author": "Erwan Ledoux",
+  "babel": {
+    "presets": [
+      "latest"
+    ]
+  },
+  "license": "MIT",
+  "description": "Teleport data template that helps to create mock and backup mongo data",
+  "name": "teleport-transactions-data",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ledoux/teleport-transactions-data"
+  },
+  "version": "0.0.1"
+}
